@@ -1,4 +1,7 @@
-### R script for data preparation and multivariate models
+### R script for data preparation and multivariate models. To run this script, 
+#first make the working directory of R be this directory.
+
+rm(list=ls())
 
 ## Load required packages
 library(dplyr)
@@ -7,9 +10,9 @@ library(vegan)
 library(ecodist)
 
 ## Import dataframes
-species_comp <- read.csv('data/species_comp.csv')
-climate_df <- read.csv('data/AWE012.csv')
-Seq_YR_Diff <- read.csv('data/seq_yr_diff.csv', header = FALSE)
+species_comp <- read.csv('species_comp.csv')
+climate_df <- read.csv('AWE012.csv')
+Seq_YR_Diff <- read.csv('seq_yr_diff.csv', header = FALSE)
 
 
 ### Community Data Preparation
@@ -537,3 +540,4 @@ mtext("F", side = 3, adj = -0.1, line = 1, cex = 2)
 
 # Close the device to save the file
 dev.off()
+
