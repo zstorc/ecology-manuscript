@@ -1,8 +1,8 @@
 # Code repository for the paper "Interannual variation in climate is a causal mechanism underlying year effects in community assembly"
 
-Zachary Storc, University of Kansas
-Kathryn D. Eckhoff, Northern Arizona University
-Daniel C. Reuman, University of Kansas
+Zachary Storc, University of Kansas; 
+Kathryn D. Eckhoff, Northern Arizona University; 
+Daniel C. Reuman, University of Kansas; 
 Sara G. Baer, University of Kansas
 
 ## Introduction 
@@ -34,5 +34,5 @@ automatically.
 
 ## Acknowledgments
 
-This research was funded by the NSF-DEB (2025849, 2343738 and 2414418), and NSF BIO-OCE (2023474). This research could not have been possible without assistance from many students and other researchers at Southern Illinois University and the University of Kansas, Kansas State University agronomy personel, and staff at KPBS. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) 
+This research was funded by the NSF-DEB (2025849, 2343738 and 2414418), and NSF BIO-OCE (2023474). This research would not have been possible without assistance from many students and other researchers at Southern Illinois University and the University of Kansas, Kansas State University agronomy personnel, and staff at the Konza Prairie Biological Station. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) 
 and do not necessarily reflect the views of the National Science Foundation or the other funders. 
