@@ -1,4 +1,4 @@
-# Code repository for the paper "Interannual variation in climate is a causal mechanism underlying year effects in community assembly"
+# Code repository for the manuscript entitled 'NATURAL VARIATION IN PLANTING-YEAR CLIMATE EXPLAINS VARIATION IN DEVELOPING FLORISTIC COMPOSITION OF RESTORED PRAIRIE' published in Journal of Applied Ecology.
 
 Zachary Storc, University of Kansas; 
 Kathryn D. Eckhoff, Northern Arizona University; 
@@ -7,7 +7,7 @@ Sara G. Baer, University of Kansas
 
 ## Introduction 
 
-This repository contains the R script and data files for the multivariate models in the manuscript "Interannual variation in climate is a causal mechanism underlying year effects in community assembly".
+This repository contains the R script and data files for the multivariate models in the manuscript entitled 'NATURAL VARIATION IN PLANTING-YEAR CLIMATE EXPLAINS VARIATION IN DEVELOPING FLORISTIC COMPOSITION OF RESTORED PRAIRIE'.
 
 ## How to run the analyses 
 
