@@ -1,4 +1,4 @@
-# Code repository for the manuscript entitled 'NATURAL VARIATION IN PLANTING-YEAR CLIMATE EXPLAINS VARIATION IN DEVELOPING FLORISTIC COMPOSITION OF RESTORED PRAIRIE' published in Journal of Applied Ecology.
+# Code repository for the manuscript entitled 'NATURAL VARIATION IN PLANTING-YEAR CLIMATE EXPLAINS VARIATION IN DEVELOPING FLORISTIC COMPOSITION OF RESTORED PRAIRIE'.
 
 Zachary Storc, University of Kansas; 
 Kathryn D. Eckhoff, Northern Arizona University; 
@@ -7,7 +7,7 @@ Sara G. Baer, University of Kansas
 
 ## Introduction 
 
-This repository contains the R script and data files for the multivariate models in the manuscript entitled 'NATURAL VARIATION IN PLANTING-YEAR CLIMATE EXPLAINS VARIATION IN DEVELOPING FLORISTIC COMPOSITION OF RESTORED PRAIRIE'.
+This repository contains the R script and data files for the multivariate models in the manuscript entitled 'NATURAL VARIATION IN PLANTING-YEAR CLIMATE EXPLAINS VARIATION IN DEVELOPING FLORISTIC COMPOSITION OF RESTORED PRAIRIE' published in Journal of Applied Ecology.
 
 ## How to run the analyses 
 
