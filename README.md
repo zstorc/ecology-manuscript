@@ -1,4 +1,6 @@
-# Code repository for the manuscript entitled 'NATURAL VARIATION IN PLANTING-YEAR CLIMATE EXPLAINS VARIATION IN DEVELOPING FLORISTIC COMPOSITION OF RESTORED PRAIRIE'.
+# Code repository for the manuscript entitled 'Natural variation in planting-year climate explains variation in developing floristic composition of restored prairie'
+
+https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70421
 
 Zachary Storc, University of Kansas; 
 Kathryn D. Eckhoff, Northern Arizona University; 
